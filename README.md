@@ -10,4 +10,4 @@ SynEdit
 
 SynEdit is an advanced multi-line edit control, for Borland Delphi and Kylix. It supports syntax highlighting, word-wrapping, code completion, template components, and exporters for HTML, TeX and RTF.
 
-Visit [SynEdit website](synedit.sourceforge.net) for download and more information.
+Visit [SynEdit website](https://github.com/TurboPack/SynEdit) for download and more information.
